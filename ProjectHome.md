@@ -1,0 +1,1 @@
+A robust threadwatcher and image downloader. Server friendly, and makes sure that all downloads succeed without corruption.
